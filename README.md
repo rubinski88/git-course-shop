@@ -10,7 +10,7 @@
 
 ## Что проверить
 
-- В каталоге три товара: Lenovo IdeaPad 3, LG UltraGear 27 и Logitech M280.
+- В каталоге четыре товара: Lenovo IdeaPad 3, LG UltraGear 27, Logitech M280 и Logitech K120.
 - У монитора LG UltraGear 27 указано "Нет в наличии".
 - Доставка по городу стоит 450 рублей.
 
